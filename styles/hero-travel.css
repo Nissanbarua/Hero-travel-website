@@ -79,6 +79,7 @@ p {
   justify-content: space-around;
   align-items: center;
   margin-left: 15%;
+  margin-right: 15%;
   backdrop-filter: blur(4px);
   border-radius: 8px;
 }
@@ -86,7 +87,7 @@ input,
 select {
   width: 170px;
   height: 40px;
-  padding: 0 0.5rem;
+  padding-left: 0.5rem;
   margin-top: 0.6rem;
   margin-bottom: 0.6rem;
   border-radius: 8px;
